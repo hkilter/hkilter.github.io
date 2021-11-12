@@ -5,9 +5,9 @@ title: "Publications"
 
 # Publications
 
-Ilter, H. K. “Simulation.”, Ed. A. Hiziroglu, H. I. Cebeci, K. S. Codal, Data Analytics and Modeling, In-print, 2022.
+İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu,A., Cebeci, H. İ., Codal, . S. ed. In-print.
 
-Ilter, H. K. Trans. “Queuing Theory.”, Ed. A. Erkollar, R. Benzer, Operations Research, Nobel Publishing, 2021.
+Ilter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400.
 
 Ilter, H. K. Trans. “Improvement, Application, and Control.” and its “Cases”, Ed. M. Barca, In Strategic Management, Nobel Publishing, 2015.
 

@@ -1,4 +1,4 @@
-## Research
+# Research
 
 [Publications](https://hkilter.github.io/publications)
 

@@ -3,6 +3,6 @@ layout: default
 title: "Publications"
 ---
 
-A
+## Publications
 
 [back](./)

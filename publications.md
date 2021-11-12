@@ -1,5 +1,8 @@
-layout: page
+---
+layout: default
 title: "Publications"
-permalink: publications.md
+---
 
 A
+
+[back](./)

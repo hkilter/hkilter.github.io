@@ -5,12 +5,15 @@ title: "Publications"
 
 # Publications
 
+Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-review.
+
 İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print.
 
 İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400.
 
-Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K.. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-print.
+Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168.
 
+Tekin, R. N., Yılmaz, F., İlter, H. K., Malhan, S. 2016. Determination of Factors Affecting Length of Stay with Multinomial Logistic Regression in Turkey. _Journal of Social Insurance_ 5(10), 74-94.
 
 İlter, H. K. 2015. Trans. Improvement, Application, and Control in _Strategic Management_, Barca, M. ed. Nobel Publishing, Ankara, 300-400.
 
@@ -18,9 +21,7 @@ Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K.. 2022. Artificial Int
 
 İlter, H. K. “Keys to Online Trade Information in Emerging Markets - Turkey,” Geneva: International Trade Centre UNCTAD/WTO Press, 2004. Digital edition.
 
-Bicakci, P. S., Ureten, S., and İlter, H. K. “Effects of Supply Chain Management Applications on the Chain Performance.” Beykent University Journal of Engineering Sciences 10(2) (2017): 141-168.
 
-Tekin, R. N., Yilmaz, F., İlter, H. K., and Malhan, S. “Determination of Factors Affecting Length of Stay with Multinomial Logistic Regression in Turkey.” Journal of Social Insurance 5(10) (2016): 74-94.
 
 İlter, H. K. “On the Sub-optimality of Strategic Decisions.” Istanbul University Journal of the School of Business Administration 42/2 (2013): 181-197.
 

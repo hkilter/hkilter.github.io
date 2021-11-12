@@ -5,11 +5,14 @@ title: "Publications"
 
 # Publications
 
-İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu,A., Cebeci, H. İ., Codal, . S. ed. In-print.
+İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print.
 
 İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400.
 
-İlter, H. K. Trans. “Improvement, Application, and Control.” and its “Cases”, Ed. M. Barca, In Strategic Management, Nobel Publishing, 2015.
+Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K.. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-print.
+
+
+İlter, H. K. 2015. Trans. Improvement, Application, and Control in _Strategic Management_, Barca, M. ed. Nobel Publishing, Ankara, 300-400.
 
 İlter, H. K. “Operations Cases.” In Operations Management (International) by William J. Stevenson, McGraw Hill, 2012.
 

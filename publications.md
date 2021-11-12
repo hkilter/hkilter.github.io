@@ -5,9 +5,9 @@ title: "Publications"
 
 # Publications
 
-Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-review. **[PDF](a.pdf)**
+Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-review. **[pdf](file.pdf)**
 
-İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print. PDF
+İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print. **[PDF](file.pdf)**
 
 İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400. PDF
 

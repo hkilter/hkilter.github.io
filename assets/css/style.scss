@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 body{
-    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    padding: 50px;
+    font: 14px/1.5 "SF Pro Text","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #727272;
+    font-weight: 400;
 }

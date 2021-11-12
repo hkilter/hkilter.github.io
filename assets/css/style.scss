@@ -9,6 +9,11 @@ body {
     font: 16px/1.5 'Old Standard TT', serif;
 }
 
+a:hover{
+    text-decoration: underline;
+    font-weight: normal;
+}
+
 /* body{
     background-color: #fff;
     padding: 50px;

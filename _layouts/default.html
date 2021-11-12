@@ -21,15 +21,19 @@
 </style>
   </head>
   <body>
-    <div class="wrapper">
-      <div class="clearfix border">
-        <div class="float-md-left border">
-          .float-left
-        </div>
-        <div class="float-md-right border">
-          .float-right
+    <div class="border">
+      <div class="col-6 p-2 mx-auto border">
+        <div class="clearfix border">
+          <div class="float-md-left border">
+            .float-left
+          </div>
+          <div class="float-md-right border">
+            {{ content }}
+          </div>
         </div>
       </div>
+    </div>
+    <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 

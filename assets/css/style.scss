@@ -2,7 +2,7 @@
 ---
 
 /*@import "{{ site.theme }}";*/
-
+@import "@primer/css/core/index.scss";
 a:hover{
     text-decoration: none;
     font-weight: inherit;

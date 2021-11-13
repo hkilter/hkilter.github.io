@@ -13,7 +13,7 @@ Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Inte
 
 Codal, K. S., Arı, İ., İlter, H. K. 2020. Big Data in Smart Energy Systems: A Critical Review. _AJIT-e: Information Technologies Online Journal_, 11(41), 11-26. DOI: https://doi.org/10.5824/ajite.2020.02.001.x ∙ **[pdf](https://hkilter.github.io/pdf/big-data-in-smart-energy-systems-a-critical-view.pdf)** ∙ **[link](https://dergipark.org.tr/en/pub/ajit-e/issue/56294/717859)**
 
-Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168. **[pdf](https://hkilter.github.io/pdf/verimli-ve-tepkisel-tedarik-zincirleri.pdf)** ∙ **[link](https://dergipark.org.tr/en/download/article-file/394313)**
+Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168. DOI: https://doi.org/10.20854/bujse.302886 ∙ **[pdf](https://hkilter.github.io/pdf/verimli-ve-tepkisel-tedarik-zincirleri.pdf)** ∙ **[link](https://dergipark.org.tr/en/download/article-file/394313)**
 
 Tekin, R. N., Yılmaz, F., İlter, H. K., Malhan, S. 2016. Determination of Factors Affecting Length of Stay with Multinomial Logistic Regression in Turkey. _Journal of Social Insurance_ 5(10), 74-94. **[pdf](file.pdf)**
 

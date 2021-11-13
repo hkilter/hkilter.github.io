@@ -1,6 +1,6 @@
 # Research
 
-<center>_updated_</center>
+_updated 2021_
 
 [Publications](https://hkilter.github.io/publications)
 

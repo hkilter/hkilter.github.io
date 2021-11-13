@@ -9,7 +9,7 @@ Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Inte
 
 İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. eds In-print. **[pdf](file.pdf)**
 
-İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. eds Nobel Publishing, Ankara, 300-400. **[pdf](file.pdf)**
+İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. eds Palme Publishing, Ankara, 1051-1144. **[pdf](https://hkilter.github.io/pdf/kuyruk-teorisi-preprint.pdf)**
 
 Codal, K. S., Arı, İ., İlter, H. K. 2020. Big Data in Smart Energy Systems: A Critical Review. _AJIT-e: Information Technologies Online Journal_, 11(41), 11-26. DOI: https://doi.org/10.5824/ajite.2020.02.001.x ∙ **[pdf](https://hkilter.github.io/pdf/big-data-in-smart-energy-systems-a-critical-view.pdf)** ∙ **[link](https://dergipark.org.tr/en/pub/ajit-e/issue/56294/717859)**
 

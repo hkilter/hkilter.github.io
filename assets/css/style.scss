@@ -1,8 +1,8 @@
 ---
 ---
 
-/*@import "{{ site.theme }}";*/
-@import "https://unpkg.com/@primer/css@^16.0.0/dist/primer.css";
+@import "{{ site.theme }}";
+
 a:hover{
     text-decoration: none;
     font-weight: inherit;

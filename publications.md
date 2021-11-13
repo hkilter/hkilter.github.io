@@ -5,23 +5,21 @@ title: "Publications"
 
 # Publications
 
-Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-review.
+Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-review. **[pdf](file.pdf)**
 
-**[pdf](file.pdf)**
+İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print. **[pdf](file.pdf)**
 
-İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print. **[PDF](file.pdf)**
+İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400. **[pdf](file.pdf)**
 
-İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400. PDF
+Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168. **[pdf](file.pdf)**
 
-Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168. PDF
+Tekin, R. N., Yılmaz, F., İlter, H. K., Malhan, S. 2016. Determination of Factors Affecting Length of Stay with Multinomial Logistic Regression in Turkey. _Journal of Social Insurance_ 5(10), 74-94. **[pdf](file.pdf)**
 
-Tekin, R. N., Yılmaz, F., İlter, H. K., Malhan, S. 2016. Determination of Factors Affecting Length of Stay with Multinomial Logistic Regression in Turkey. _Journal of Social Insurance_ 5(10), 74-94. PDF
+İlter, H. K. 2015. Trans. Improvement, Application, and Control in _Strategic Management_, Barca, M. ed. Nobel Publishing, Ankara, 300-400. **[pdf](file.pdf)**
 
-İlter, H. K. 2015. Trans. Improvement, Application, and Control in _Strategic Management_, Barca, M. ed. Nobel Publishing, Ankara, 300-400.
+İlter, H. K. “Operations Cases.” In Operations Management (International) by William J. Stevenson, McGraw Hill, 2012. **[pdf](file.pdf)**
 
-İlter, H. K. “Operations Cases.” In Operations Management (International) by William J. Stevenson, McGraw Hill, 2012.
-
-İlter, H. K. “Keys to Online Trade Information in Emerging Markets - Turkey,” Geneva: International Trade Centre UNCTAD/WTO Press, 2004. Digital edition.
+İlter, H. K. “Keys to Online Trade Information in Emerging Markets - Turkey,” Geneva: International Trade Centre UNCTAD/WTO Press, 2004. Digital edition. **[pdf](file.pdf)**
 
 
 

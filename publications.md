@@ -7,9 +7,11 @@ title: "Publications"
 
 Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Intelligence in Healthcare Industry: A Transformation From Model-Driven to Knowledge-Driven DSS. _Artificial Intelligence Theory and Applications_, In-review. **[pdf](file.pdf)**
 
-İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. ed. In-print. **[pdf](file.pdf)**
+İlter, H. K. 2022. Simulation in _Data Analytics and Modeling_ Hızıroğlu, A., Cebeci, H. İ., Codal, . S. eds In-print. **[pdf](file.pdf)**
 
-İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. ed. Nobel Publishing, Ankara, 300-400. **[pdf](file.pdf)**
+İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. eds Nobel Publishing, Ankara, 300-400. **[pdf](file.pdf)**
+
+Codal, K. S., Arı, İ., İlter, H. K. 2020. Big Data in Smart Energy Systems: A Critical Review. _AJIT-e: Information Technologies Online Journal_, 11(41), 11-26. **[pdf](file.pdf)**
 
 Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168. **[pdf](file.pdf)**
 

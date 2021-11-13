@@ -11,7 +11,7 @@ Hızıroğlu, A., Pişirgen, A., Özcan, M., İlter, H. K. 2022. Artificial Inte
 
 İlter, H. K. 2021. Trans. Queuing Theory in _Operations Research_, Erkollar, A., Benzer, R. eds Nobel Publishing, Ankara, 300-400. **[pdf](file.pdf)**
 
-Codal, K. S., Arı, İ., İlter, H. K. 2020. Big Data in Smart Energy Systems: A Critical Review. _AJIT-e: Information Technologies Online Journal_, 11(41), 11-26. **[pdf](file.pdf)**
+Codal, K. S., Arı, İ., İlter, H. K. 2020. Big Data in Smart Energy Systems: A Critical Review. _AJIT-e: Information Technologies Online Journal_, 11(41), 11-26. DOI: https://doi.org/10.5824/ajite.2020.02.001.x **[pdf](https://hkilter.github.io/pdf/big-data-in-smart-energy-systems-a-critical-view.pdf)** **[link](https://dergipark.org.tr/en/pub/ajit-e/issue/56294/717859)**
 
 Bıçakçı, P. S., Üreten, S., İlter, H. K. 2017. Effects of Supply Chain Management Applications on the Chain Performance. _Beykent University Journal of Engineering Sciences_ 10(2), 141-168. **[pdf](file.pdf)**
 
